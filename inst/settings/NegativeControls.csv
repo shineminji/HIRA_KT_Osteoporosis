@@ -1,0 +1,12 @@
+targetId,comparatorId,outcomeId,outcomeName,type
+8522,8523,4310400,Acute appendicitis,outcome
+8522,8523,257007,Allergic rhinitis,outcome
+8522,8523,381581,Chalazion,outcome
+8522,8523,377910,Deviated nasal septum,outcome
+8522,8523,4170770,Epidermoid cyst,outcome
+8522,8523,40481632,Ganglion cyst,outcome
+8522,8523,195562,Hemorrhoids,outcome
+8522,8523,374375,Impacted cerumen,outcome
+8522,8523,379805,Myopia,outcome
+8522,8523,4138403,Polyp of nasal sinus,outcome
+8522,8523,141825,Simple goiter,outcome
